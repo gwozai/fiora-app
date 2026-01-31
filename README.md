@@ -23,4 +23,4 @@ Click link or scan qrcode to download APK
 
 ### iOS
 
-The iOS app is being submitted to the app store for review. You can now install unreviewed apps through testflight. Please contact 碎碎酱 or send an email to <yinxinmac@icloud.com>. Please attach your apple ID
+The iOS app is not available now. You can try to compile it by yourself.
